@@ -1,3 +1,11 @@
+//********************************************************************
+//Alejandro Beltrán Huertas
+//24 09 2025
+//Sistemas opertivos
+//Teoria del Rendimiento
+//********************************************************************
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include "modulo.h"

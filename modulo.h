@@ -1,3 +1,10 @@
+//********************************************************************
+//Alejandro Beltrán Huertas
+//24 09 2025
+//Sistemas opertivos
+//Teoria del Rendimiento
+//********************************************************************
+
 #ifndef MODULO_H
 #define MODULO_H
 

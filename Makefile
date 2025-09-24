@@ -1,7 +1,7 @@
 ######################################################################
-# Makefile: bash para automatizar instrucciones de compilacion
 # Nombre: Alejandro Beltrán Huertas
-# fecha: 8 09 2025
+# fecha: 24 09 2025
+#Sistemas Operativos
 ######################################################################
 #Compilador que se va a usar
 GCC = gcc
